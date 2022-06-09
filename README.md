@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Demands14
-- 👀 I’m interested in coding.....
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Java
 
 <!---
